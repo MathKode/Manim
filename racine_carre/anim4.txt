@@ -1,0 +1,49 @@
+x_0 = 1
+\newline
+\newline
+x_1 = \frac{x_0+\frac{Aire}{x_0}}{2}
+\newline
+x_1 = \frac{1+\frac{51}{1}}{2}
+\newline
+x_1 = \frac{52}{2}
+\newline
+x_1 = 26
+\newline
+\newline
+x_2 = \frac{x_1+\frac{Aire}{x_1}}{2}
+\newline
+x_2 = \frac{26+\frac{51}{26}}{2}
+\newline
+x_2 = \frac{727}{52}
+\newline
+x_2 = 13,98
+\newline
+\newline
+x_3 = \frac{x_2+\frac{Aire}{x_2}}{2}
+\newline
+x_3 = \frac{13,98+\frac{51}{13,98}}{2}
+\newline
+x_3 = \frac{666433}{75608}
+\newline
+x_3 = 8,81
+\newline
+\newline
+x_4 = \frac{x_3+\frac{Aire}{x_3}}{2}
+\newline
+x_4 = \frac{8,81+\frac{51}{8,81}}{2}
+\newline
+x_4 = 7,30
+\newline
+\newline
+x_5 = \frac{x_4+\frac{Aire}{x_4}}{2}
+\newline
+x_5 = \frac{7,30+\frac{51}{7,30}}{2}
+\newline
+x_5 = 7,1432
+\newline
+\newline
+x_6 = \frac{x_5+\frac{Aire}{x_5}}{2}
+\newline
+x_6 = \frac{7,1432+\frac{51}{7,1432}}{2}
+\newline
+x_6 = 7,1414
